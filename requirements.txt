@@ -1,0 +1,6 @@
+streamlit
+playwright
+google-genai
+python-pptx
+markdown-pdf
+python-dotenv

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "user1",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "github": "https://github.com/johndoe",
+        "linkedin": "https://linkedin.com/in/johndoe",
+        "dietary_restrictions": "None",
+        "tshirt_size": "L",
+        "skills": ["Python", "React", "Machine Learning"],
+        "bio": "Full-stack developer passionate about building AI-driven web applications.",
+        "university": "Example University",
+        "graduation_year": 2027
+    },
+    {
+        "id": "user2",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "github": "https://github.com/janesmith",
+        "linkedin": "https://linkedin.com/in/janesmith",
+        "dietary_restrictions": "Vegetarian",
+        "tshirt_size": "M",
+        "skills": ["UI/UX Design", "Figma", "Frontend Development"],
+        "bio": "Designer and frontend developer focusing on creating intuitive user experiences.",
+        "university": "Example University",
+        "graduation_year": 2026
+    }
+]

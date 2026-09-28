@@ -1,0 +1,18 @@
+[
+    {
+        "id": "idea1",
+        "theme": "AI Healthcare",
+        "title": "MediScan AI",
+        "problem": "Doctors spend too much time reading and summarizing long medical histories and test results, reducing the time they can spend with patients.",
+        "solution": "An AI-powered dashboard that ingests patient records, lab results, and notes, providing instant, prioritized summaries and flagging potential drug interactions using LLMs.",
+        "tech_stack": ["React", "Python", "FastAPI", "Gemini API", "PostgreSQL"]
+    },
+    {
+        "id": "idea2",
+        "theme": "Web3 / DeFi",
+        "title": "TrustFund DAO",
+        "problem": "Managing shared funds for small communities or friend groups lacks transparency and requires trusting a single individual.",
+        "solution": "A multi-sig wallet interface combined with a DAO voting mechanism that allows groups to propose, vote, and execute transactions securely on-chain.",
+        "tech_stack": ["Next.js", "Solidity", "Hardhat", "Ethers.js"]
+    }
+]

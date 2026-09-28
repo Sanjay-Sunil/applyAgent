@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+env/
+
+# Playwright Profiles
+playwright_profile/
+
+# Data and State
+state.json
+*.pptx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
